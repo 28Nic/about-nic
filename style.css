@@ -1,0 +1,9 @@
+h1 {
+    font-size: 5em;
+    font-family: Arial;
+    text-shadow:
+      2px 2px 2px purple
+}
+p {
+    font-family: Arial;
+}
