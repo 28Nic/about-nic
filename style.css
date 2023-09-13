@@ -1,9 +1,18 @@
 h1 {
     font-size: 5em;
-    font-family: Arial;
-    text-shadow:
-      2px 2px 2px purple
+    font-family: "Comic Sans MS";
+
+     color: purple;
+    text-shadow: 2px 2px 2px ,0 0 4px #00FF9C;
+
+    .center img {
+        display:block;
+        margin-left:auto;
+        margin-right:auto;
+
+ {
+    font-family: "Comic Sans MS";
 }
-p {
-    font-family: Arial;
-}
+ <ul:none {
+    color: blueviolet;
+  }}}
